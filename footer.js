@@ -1,1 +1,1 @@
-﻿document.write('<footer> <small>Copyright © 2020 kaijo computer club.</small> </footer>');
+﻿document.write('<footer> <small>Copyright © 2026 Kaijo Computer Club.</small> </footer>');
